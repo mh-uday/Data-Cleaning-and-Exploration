@@ -4,7 +4,7 @@
 
 This project focuses on cleaning and exploring a dataset containing information about layoffs across various companies. The process includes removing duplicates, standardizing data, handling null values, and performing exploratory data analysis (EDA) to extract key insights.
 
-## Data Sources
+### Data Sources
 
 The Primary dataset use for this project is the "layoffs.csv" file, containing detailed informations.
 
